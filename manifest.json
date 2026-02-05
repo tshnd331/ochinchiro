@@ -1,7 +1,7 @@
 {
   "version": "0.0.3",
   "url": "https://github.com/tshnd331/ochinchiro/releases/download/v0.0.3/ochinchiro_v0.0.3.zip",
-  "sha256": "184B92984D4A2C417495485C66F809BF838067F15E9ACC5A2A1032159D4EB0DA",
+  "sha256": "BFCF77C7BDDEF1948D38FBA2B1A40EAF43BC5F65FE6CB06CF3B2E3B7D5B05BB0",
   "entry": {
     "node": "ochinchiro/node/node.exe",
     "script": "ochinchiro/server.mjs"
